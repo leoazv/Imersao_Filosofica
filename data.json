@@ -29,6 +29,26 @@
     "tags": ["ética", "lógica", "virtude"],
     "urlReferencia": "https://plato.stanford.edu/entries/aristotle/"
   },
+   {
+    "tipo": "filosofo",
+    "nome": "Santo Agostinho",
+    "periodo": "Medieval",
+    "escola": "Neoplatonismo cristão",
+    "descricao": "Filósofo cristão que integrou elementos do neoplatonismo ao pensamento cristão, discutindo livre-arbítrio, tempo e interioridade.",
+    "nivel": "iniciante",
+    "tags": ["agostinismo", "cristianismo", "livre-arbítrio"],
+    "urlReferencia": "https://plato.stanford.edu/entries/augustine/"
+  },
+  {
+    "tipo": "filosofo",
+    "nome": "Tomás de Aquino",
+    "periodo": "Medieval",
+    "escola": "Escolástica",
+    "descricao": "Filósofo e teólogo central na escolástica, conciliou Aristóteles com o cristianismo e desenvolveu argumentos clássicos para a existência de Deus.",
+    "nivel": "intermediario",
+    "tags": ["escolástica", "teologia natural", "aristotelismo"],
+    "urlReferencia": "https://plato.stanford.edu/entries/aquinas/"
+  },
   {
     "tipo": "conceito",
     "nome": "Ética da virtude",
@@ -98,25 +118,5 @@
     "nivel": "avancado",
     "tags": ["epistemologia", "metafísica", "kant"],
     "urlReferencia": "https://plato.stanford.edu/entries/kant/"
-  },
-  {
-    "tipo": "filosofo",
-    "nome": "Santo Agostinho",
-    "periodo": "Medieval",
-    "escola": "Neoplatonismo cristão",
-    "descricao": "Filósofo cristão que integrou elementos do neoplatonismo ao pensamento cristão, discutindo livre-arbítrio, tempo e interioridade.",
-    "nivel": "iniciante",
-    "tags": ["agostinismo", "cristianismo", "livre-arbítrio"],
-    "urlReferencia": "https://plato.stanford.edu/entries/augustine/"
-  },
-  {
-    "tipo": "filosofo",
-    "nome": "Tomás de Aquino",
-    "periodo": "Medieval",
-    "escola": "Escolástica",
-    "descricao": "Filósofo e teólogo central na escolástica, conciliou Aristóteles com o cristianismo e desenvolveu argumentos clássicos para a existência de Deus.",
-    "nivel": "intermediario",
-    "tags": ["escolástica", "teologia natural", "aristotelismo"],
-    "urlReferencia": "https://plato.stanford.edu/entries/aquinas/"
   }
 ]
