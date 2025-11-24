@@ -1,2 +1,82 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Imersão_Filosofia</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="cabecalho">
+    <div class="cabecalho-conteudo">
+      <h1>Imersão_Filosofia</h1>
+      <p>
+        Catálogo interativo de filósofos, conceitos, obras e escolas,
+        desenvolvido com HTML, CSS e JavaScript, inspirado na Imersão Dev.
+      </p>
+    </div>
+  </header>
+
+  <main class="principal">
+    <section class="filtros">
+      <div class="campo">
+        <label for="busca">Busca por nome, descrição ou tag</label>
+        <input
+          type="text"
+          id="busca"
+          placeholder="Ex.: ética, Kant, existencialismo..."
+        />
+      </div>
+
+      <div class="campo">
+        <label for="tipo">Tipo</label>
+        <select id="tipo">
+          <option value="">Todos</option>
+          <option value="filosofo">Filósofo</option>
+          <option value="conceito">Conceito</option>
+          <option value="obra">Obra</option>
+          <option value="escola">Escola/Corrente</option>
+        </select>
+      </div>
+
+      <div class="campo">
+        <label for="periodo">Período histórico</label>
+        <select id="periodo">
+          <option value="">Todos</option>
+          <option value="Antiga">Antiga</option>
+          <option value="Medieval">Medieval</option>
+          <option value="Moderna">Moderna</option>
+          <option value="Contemporanea">Contemporânea</option>
+        </select>
+      </div>
+
+      <div class="campo">
+        <label for="nivel">Nível</label>
+        <select id="nivel">
+          <option value="">Todos</option>
+          <option value="iniciante">Iniciante</option>
+          <option value="intermediario">Intermediário</option>
+          <option value="avancado">Avançado</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="status">
+      <p id="status-lista">Carregando itens...</p>
+    </section>
+
+    <section id="cards-container" class="cards-container">
+      <!-- Cards são gerados dinamicamente via script.js -->
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <p>
+      Projeto desenvolvido para a Imersão Dev Alura + Google, utilizando apenas
+      HTML, CSS e JavaScript.
+    </p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
