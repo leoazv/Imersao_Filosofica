@@ -1,2 +1,122 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+[
+  {
+    "tipo": "filosofo",
+    "nome": "Sócrates",
+    "periodo": "Antiga",
+    "escola": "Filosofia clássica grega",
+    "descricao": "Filósofo ateniense conhecido pelo método dialógico e pela máxima 'só sei que nada sei'.",
+    "nivel": "iniciante",
+    "tags": ["ética", "maiêutica", "filosofia antiga"],
+    "urlReferencia": "https://plato.stanford.edu/entries/socrates/"
+  },
+  {
+    "tipo": "filosofo",
+    "nome": "Platão",
+    "periodo": "Antiga",
+    "escola": "Platonismo",
+    "descricao": "Discípulo de Sócrates, elaborou a teoria das Formas e fundou a Academia em Atenas.",
+    "nivel": "iniciante",
+    "tags": ["metafísica", "política", "conhecimento"],
+    "urlReferencia": "https://plato.stanford.edu/entries/plato/"
+  },
+  {
+    "tipo": "filosofo",
+    "nome": "Aristóteles",
+    "periodo": "Antiga",
+    "escola": "Peripatética",
+    "descricao": "Filósofo grego que sistematizou a lógica e formulou a ética da virtude e o conceito de justo meio.",
+    "nivel": "intermediario",
+    "tags": ["ética", "lógica", "virtude"],
+    "urlReferencia": "https://plato.stanford.edu/entries/aristotle/"
+  },
+  {
+    "tipo": "conceito",
+    "nome": "Ética da virtude",
+    "periodo": "Antiga",
+    "escola": "Aristotelismo",
+    "descricao": "Abordagem ética focada na formação do caráter e das virtudes, não apenas em regras ou consequências.",
+    "nivel": "iniciante",
+    "tags": ["ética", "virtude", "caráter"],
+    "urlReferencia": "https://iep.utm.edu/virtue-ethics/"
+  },
+  {
+    "tipo": "conceito",
+    "nome": "Imperativo categórico",
+    "periodo": "Moderna",
+    "escola": "Idealismo transcendental",
+    "descricao": "Princípio central da ética de Kant: agir segundo máximas que possam valer como lei universal.",
+    "nivel": "intermediario",
+    "tags": ["ética", "kant", "moral"],
+    "urlReferencia": "https://plato.stanford.edu/entries/kant-moral/"
+  },
+  {
+    "tipo": "filosofo",
+    "nome": "Immanuel Kant",
+    "periodo": "Moderna",
+    "escola": "Idealismo transcendental",
+    "descricao": "Filósofo alemão que propôs uma ética deontológica e uma teoria do conhecimento centrada nas condições da experiência.",
+    "nivel": "intermediario",
+    "tags": ["ética", "epistemologia", "modernidade"],
+    "urlReferencia": "https://plato.stanford.edu/entries/kant/"
+  },
+  {
+    "tipo": "filosofo",
+    "nome": "Friedrich Nietzsche",
+    "periodo": "Moderna",
+    "escola": "Crítica à modernidade",
+    "descricao": "Filósofo alemão que criticou a moral tradicional e introduziu conceitos como vontade de potência e eterno retorno.",
+    "nivel": "avancado",
+    "tags": ["moral", "crítica", "niilismo"],
+    "urlReferencia": "https://plato.stanford.edu/entries/nietzsche/"
+  },
+  {
+    "tipo": "escola",
+    "nome": "Estoicismo",
+    "periodo": "Antiga",
+    "escola": "Estoicismo",
+    "descricao": "Corrente que enfatiza a virtude, autocontrole e conformidade racional com a natureza.",
+    "nivel": "iniciante",
+    "tags": ["ética", "autodomínio", "filosofia prática"],
+    "urlReferencia": "https://iep.utm.edu/stoicism/"
+  },
+  {
+    "tipo": "obra",
+    "nome": "República",
+    "periodo": "Antiga",
+    "escola": "Platonismo",
+    "descricao": "Diálogo onde Platão discute justiça, cidade ideal e a alegoria da caverna.",
+    "nivel": "iniciante",
+    "tags": ["política", "justiça", "epistemologia"],
+    "urlReferencia": "https://plato.stanford.edu/entries/plato-ethics-politics/"
+  },
+  {
+    "tipo": "obra",
+    "nome": "Crítica da Razão Pura",
+    "periodo": "Moderna",
+    "escola": "Idealismo transcendental",
+    "descricao": "Obra monumental de Kant sobre as condições de possibilidade do conhecimento humano.",
+    "nivel": "avancado",
+    "tags": ["epistemologia", "metafísica", "kant"],
+    "urlReferencia": "https://plato.stanford.edu/entries/kant/"
+  },
+  {
+    "tipo": "filosofo",
+    "nome": "Santo Agostinho",
+    "periodo": "Medieval",
+    "escola": "Neoplatonismo cristão",
+    "descricao": "Filósofo cristão que integrou elementos do neoplatonismo ao pensamento cristão, discutindo livre-arbítrio, tempo e interioridade.",
+    "nivel": "iniciante",
+    "tags": ["agostinismo", "cristianismo", "livre-arbítrio"],
+    "urlReferencia": "https://plato.stanford.edu/entries/augustine/"
+  },
+  {
+    "tipo": "filosofo",
+    "nome": "Tomás de Aquino",
+    "periodo": "Medieval",
+    "escola": "Escolástica",
+    "descricao": "Filósofo e teólogo central na escolástica, conciliou Aristóteles com o cristianismo e desenvolveu argumentos clássicos para a existência de Deus.",
+    "nivel": "intermediario",
+    "tags": ["escolástica", "teologia natural", "aristotelismo"],
+    "urlReferencia": "https://plato.stanford.edu/entries/aquinas/"
+  }
+]
